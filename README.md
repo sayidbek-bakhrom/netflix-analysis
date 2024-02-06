@@ -1,7 +1,8 @@
 # netflix-analysis
 <br>
 SQL project which do analysis on Netflix movies and tv shows
-![Netflix](https://github.com/sayidbek-bakhrom/netflix-analysis/assets/87595572/fa116bf4-682c-4a52-8e1d-21effbc9201b)
+<img src='![Netflix](https://github.com/sayidbek-bakhrom/netflix-analysis/assets/87595572/85dc6b05-75bd-4fd5-a991-d394dcd1bb92)
+'>
 
 <a href='https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv'>Datasets used<a> <br>
 <b>Problem</b>
